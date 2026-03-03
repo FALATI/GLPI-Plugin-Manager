@@ -28,7 +28,7 @@ Servidor Linux (testado em Debian/Ubuntu)
 🚀 Instalação
 1. Download do Plugin
 cd /var/www/html/glpi/plugins/
-git clone https://github.com/seu-usuario/glpi-pluginmanager.git pluginmanager
+git clone https://github.com/FALATI/GLPI-Plugin-Manager.git) pluginmanager
 
 2. Permissões (PASSO CRÍTICO!)
 # Ajustar permissões do plugin
